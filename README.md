@@ -1,2 +1,3 @@
-# Problem-8
-find min in rotated sorted array
+# BS-2
+Find Min in Rotated Sorted Array
+Find Peak Element
